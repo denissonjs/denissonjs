@@ -3,12 +3,12 @@
     <p align="left"><img src="https://komarev.com/ghpvc/?username=denissonjs&amp;color=blue" alt="Numero de Visualização do Perfil"/></p>
     
 - 🔭 Atualmente, trabalhando Projetos Pessoais voltado ao Back-End.
-- 🌱 Atualmente, estudando Node.js com TypeScript e me aprofundando banco de dados relacionais.
-- 👯 Até então trabalhando como analista de desenvolvimento de sistemas na empresa Sergipana Grupo Megga.
-- 💬 Ask me about C# .NET, SQL, JavaScript, Node.JS, Dev. Winthor Totvs
-- 👨🏽‍💻 6 Projetos reais em Windows Form C# .NET.    
+- 🌱 Atualmente, estudando Node.js com TypeScript e buscando maior profundidade em Banco de dados Relacionais.
+- 👯 Até então trabalhando como analista de desenvolvimento de sistemas no maior distribuidor atacadista de Sergipe, Grupo Megga.
+- 💬 Posso responder sobre C# .NET, SQL, JavaScript, Node.JS, Dev. para Winthor Totvs
+- 👨🏽‍💻 6 Projetos reais em Windows Form C# .NET.   
 - 🛢️ 2 Projetos reais em Manipulação de Banco de Dados Oracle SQL.
-- 📫 Você pode me encontrar em: denisson.js@outlook.com
+- 📫 Você entrar em contato por: denisson.js@outlook.com
 - ⚡ Fun fact **Sink 😵‍💫**
 
 <br><br>
