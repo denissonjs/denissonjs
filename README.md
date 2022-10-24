@@ -9,7 +9,7 @@
 - 💬 Posso responder sobre C# .NET, SQL, JavaScript, Node.JS, Dev. para Winthor Totvs
 - 👨🏽‍💻 6 Projetos reais em Windows Form C# .NET.   
 - 🛢️ 2 Projetos reais em Manipulação de Banco de Dados Oracle SQL.
-- 📫 Você entrar em contato por: denisson.js@outlook.com
+- 📫 Você entrar em contato por: denissonjs@outlook.com
 - ⚡ Fun fact **Bus 🚌**
 
 <br><br>
