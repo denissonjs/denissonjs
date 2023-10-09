@@ -3,13 +3,13 @@
     <h1>Olá, saudações! Sou Denisson Silva. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"/></h1>
     <p align="left"><img src="https://komarev.com/ghpvc/?username=denissonjs&amp;color=blue" alt="Numero de Visualização do Perfil"/></p>
     
-- 🔭 Atualmente, trabalhando Projetos Pessoais voltado ao Back-End.
-- 🌱 Atualmente, estudando Node.js com TypeScript e buscando maior profundidade em Banco de dados Relacionais.
-- 👯 Até então trabalhando como analista de desenvolvimento de sistemas no maior distribuidor atacadista de Sergipe, Grupo Megga.
-- 💬 Posso responder sobre C# .NET, SQL, JavaScript, Node.JS, Dev. para Winthor Totvs
-- 👨🏽‍💻 6 Projetos reais em Windows Form C# .NET.   
-- 🛢️ 2 Projetos reais em Manipulação de Banco de Dados Oracle SQL.
-- 📫 Você entrar em contato por: denissonjs@outlook.com
+- 🔭 Afiando o machado com projetos de pesquisas backend e desktop.
+- 🌱 Hypando a incrivél jornada de engenharia de software.
+- 👯 Programador web e desktop no maior distribuidor atacadista de Sergipe, Grupo Megga.
+- 💬 Posso responder sobre C# .NET, SQL, JavaScript, Node.JS, Winthor Totvs Dev
+- 👨🏽‍💻 13 Projetos reais em Windows Form C# .NET para Winthor.   
+- 🛢️ 2 Projetos backend em produção em com javascript/node.
+- 📫 Considere entrar em contato [nesse link](https://beacons.ai/denissondev)  
 - ⚡ Fun fact **Bus 🚌**
 
 <br><br>
@@ -18,8 +18,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C#](https://img.shields.io/badge/-CS-05122A?style=flat&logo=csharp)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
